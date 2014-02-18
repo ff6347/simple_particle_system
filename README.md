@@ -1,6 +1,6 @@
 a really simple particle system
 ===============================
-@author fabiantheblind  
+@author @fabiantheblind  
 written for block seminar @FHP Werkstattpraxis 14W4D-IL Interface-Labor WS 2013/2014  
 
 Copyright (c)  2014 Fabian "fabiantheblind" Morón Zirfas  
